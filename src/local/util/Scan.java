@@ -11,6 +11,7 @@
  * 1  2014.1.9   Separate integer, float and double
  * 2  2014.2.1   Set this to GitHub
  */
+
 package local.util;
 
 import java.util.Scanner;

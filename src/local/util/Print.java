@@ -1,12 +1,19 @@
 /**
- * 
+ * CopyRight (C) 1989-2989 <Alexander>
+ * Copy Right Author     : Alexander_LWZ
+ * Package Space         : local.util
+ * JDK Version Used      : jdk1.7.0_45
+ * Comments              : The use of print methods
+ * Version               : 1.0.0
+ * Create Date           : 2014.1.10
+ * Modification History  
+ * Sr Date       Why & What is modified
+ * 1  2014.1.16  Add comments for each methods
+ * 2  2014.2.1   Add to GitHub
  */
+
 package local.util;
 
-/**
- * @author AlexanderLWZ
- *
- */
 public class Print {
 	/**
 	 * Terminates the current line by writing the line separator string. The

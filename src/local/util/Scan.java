@@ -1,7 +1,7 @@
 /**
  * CopyRight (C) 1989-2989 <Alexander>
  * Copy Right Author     : Alexander_LWZ
- * Package Space         : local.alexander.util
+ * Package Space         : local.util
  * JDK Version Used      : jdk1.7.0_45
  * Comments              : The use of get legal numbers
  * Version               : 1.0.0

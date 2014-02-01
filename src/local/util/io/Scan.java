@@ -1,7 +1,7 @@
 /**
  * CopyRight (C) 1989-2989 <Alexander>
  * Copy Right Author     : Alexander_LWZ
- * Package Space         : local.util
+ * Package Space         : local.util.io
  * JDK Version Used      : jdk1.7.0_45
  * Comments              : The use of get legal numbers
  * Version               : 1.0.0
@@ -12,7 +12,7 @@
  * 2  2014.2.1   Set this to GitHub
  */
 
-package local.util;
+package local.util.io;
 
 import java.util.Scanner;
 

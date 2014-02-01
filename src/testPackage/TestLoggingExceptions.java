@@ -1,6 +1,6 @@
 package testPackage;
 
-import local.util.LoggingException;
+import local.util.io.LoggingException;
 
 public class TestLoggingExceptions {
 	public static void main(String[] args) {

@@ -10,7 +10,7 @@
  * Sr Date       Why & What is modified
  */
 
-package local.util.file;
+package local.util;
 
 public class Hex {
 	public static String format(byte[] data) {

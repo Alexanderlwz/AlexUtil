@@ -1,7 +1,7 @@
 /**
  * CopyRight (C) 1989-2989 <Alexander>
  * Copy Right Author     : Alexander_LWZ
- * Package Space         : local.util
+ * Package Space         : local.util.generator
  * JDK Version Used      : jdk1.7.0_45
  * Comments              : Automatically create a Generator by given a class
  * Version               : 1.0.0
@@ -10,7 +10,8 @@
  * Sr Date       Why & What is modified
  */
 
-package local.util;
+package local.util.generator;
+
 
 public class BasicGenerator<T> implements Generator<T> {
 	private Class<T> type;
